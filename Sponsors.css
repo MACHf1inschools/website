@@ -90,3 +90,24 @@ ul li.active a{
     top: 25%;
 }
 
+.explore{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding-bottom: 5vh;
+}
+
+.btn{
+    border: 1px solid #fff;
+    padding: 15px 40px;
+    color: #fff;
+    text-decoration: none;
+    font-size:150%;
+}
+
+.btn:hover{
+    background-color: #fff;
+    color: #000;
+    transition: 0.4s ease;
+}
