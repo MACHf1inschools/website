@@ -7,7 +7,7 @@
 }
 
 header{
-    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)), url(../ws.png);
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)), url(../website/ws.png);
    
 
     height: 100vh;
